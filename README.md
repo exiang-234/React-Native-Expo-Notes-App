@@ -1,57 +1,68 @@
-# Welcome to your Expo app 👋
+# Project Developer
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-This has 'Nativewind' and 'Supabase' integration.
+   For the completion of this APDEVET FINAL PROJECT, this is hereby developed by the following individuals:
 
-supabase setup:
-   - add/create a 'services' folder to hold the 'supabase file'. 
-   - add/create filename 'supabase.ts' or 'supabase-client.ts'
-   - then paste you're supabase account 'project-url' and 'anon-key'
-   - then -> go 
+   -  Alycia Mae P. Cabus
+   -  Cristine Jen R. Sedano
+   -  Jade Mark G. Abrinica
+   -  Khen C. Urdaniza
+   -  John Lester Sarne
 
-## Get started
+# Project Description
+   
+   This Notes App is a mobile application created using React Native and Supabase. The App demonstrate full CRUD functionality (CREATE, READ, UPDATE, and DELETE) with User Authentication. This is also an [Expo] (https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). This has 'Nativewind' and 'Supabase' integration. 
 
-1. Install dependencies
+# Setup or Installation Instructions
 
-   ```bash
-   npm install
-   ```
+      supabase setup:
+      - add/create a 'services' folder to hold the 'supabase file'. 
+      - add/create filename 'supabase.ts' or 'supabase-client.ts'
+      - then paste you're supabase account 'project-url' and 'anon-key'
+      - then -> go 
 
-2. Start the app
+   ## Get started
 
-   ```bash
-   npx expo start
-   ```
+      1. Install dependencies
 
-3. Install Supabase. *after*
+         ```bash
+         npm install
+         ```
 
-   ```bash
-   npm i @supabase/supabase-js
-   ```
+      2. Start the app
 
-In the output, you'll find options to open the app in a
+         ```bash
+         npx expo start
+         ```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+      3. Install Supabase. *after*
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+         ```bash
+         npm i @supabase/supabase-js
+         ```
 
-## This is a Fresh Project or Demo: connecting to the supabase.
+      In the output, you'll find options to open the app in a
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+      - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+      - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+      - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+      - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+      You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+   ## This is a Fresh Project or Demo: Connecting to the Supabase
+
+      This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 ## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+   To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+   - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+   - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
 
-Join our community of developers creating universal apps.
+   Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+   - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
